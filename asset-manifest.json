@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Chachez/geo-module/static/css/main.8ec51fe7.chunk.css",
+    "main.js": "/Chachez/geo-module/static/js/main.ecedbe1e.chunk.js",
+    "main.js.map": "/Chachez/geo-module/static/js/main.ecedbe1e.chunk.js.map",
+    "runtime-main.js": "/Chachez/geo-module/static/js/runtime-main.808ae367.js",
+    "runtime-main.js.map": "/Chachez/geo-module/static/js/runtime-main.808ae367.js.map",
+    "static/js/2.e43a65a3.chunk.js": "/Chachez/geo-module/static/js/2.e43a65a3.chunk.js",
+    "static/js/2.e43a65a3.chunk.js.map": "/Chachez/geo-module/static/js/2.e43a65a3.chunk.js.map",
+    "index.html": "/Chachez/geo-module/index.html",
+    "static/css/main.8ec51fe7.chunk.css.map": "/Chachez/geo-module/static/css/main.8ec51fe7.chunk.css.map",
+    "static/js/2.e43a65a3.chunk.js.LICENSE.txt": "/Chachez/geo-module/static/js/2.e43a65a3.chunk.js.LICENSE.txt",
+    "static/media/background1.8b858f26.png": "/Chachez/geo-module/static/media/background1.8b858f26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808ae367.js",
+    "static/js/2.e43a65a3.chunk.js",
+    "static/css/main.8ec51fe7.chunk.css",
+    "static/js/main.ecedbe1e.chunk.js"
+  ]
+}
